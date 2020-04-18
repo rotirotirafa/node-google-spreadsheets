@@ -1,0 +1,12 @@
+{
+  "name": "node-google-spreadsheets",
+  "version": "1.0.0",
+  "description": "Script para manipular planilhas do Google",
+  "main": "index.js",
+  "repository": "https://github.com/rotirotirafa/node-google-spreadsheets.git",
+  "author": "Rafael Rotiroti <rotirotirafa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-spreadsheet": "2.0.7"
+  }
+}
