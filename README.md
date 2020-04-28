@@ -1,4 +1,4 @@
-# node-google-spreadsheets
+# Planilhas do Google (Node)
 Script para manipular planilhas do Google
 
 #### Clone este repositório
